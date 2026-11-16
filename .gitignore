@@ -1,0 +1,18 @@
+
+# Private user data
+users.txt
+
+# Generated invoice files
+invoices/
+invoices.txt
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
